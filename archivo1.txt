@@ -1,1 +1,3 @@
-Hola esto es control cambios con GIT
+Hola esto es control cambios con GIT.
+
+Nueva caracteristica del software.
